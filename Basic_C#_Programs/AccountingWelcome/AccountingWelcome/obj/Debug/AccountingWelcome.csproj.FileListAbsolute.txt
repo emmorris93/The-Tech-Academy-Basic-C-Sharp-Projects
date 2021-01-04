@@ -1,0 +1,6 @@
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AccountingWelcome\AccountingWelcome\bin\Debug\AccountingWelcome.exe.config
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AccountingWelcome\AccountingWelcome\bin\Debug\AccountingWelcome.exe
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AccountingWelcome\AccountingWelcome\bin\Debug\AccountingWelcome.pdb
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AccountingWelcome\AccountingWelcome\obj\Debug\AccountingWelcome.csproj.CoreCompileInputs.cache
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AccountingWelcome\AccountingWelcome\obj\Debug\AccountingWelcome.exe
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AccountingWelcome\AccountingWelcome\obj\Debug\AccountingWelcome.pdb
