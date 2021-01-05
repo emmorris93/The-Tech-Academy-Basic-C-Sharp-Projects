@@ -1,0 +1,7 @@
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\bin\Debug\StudentDailyReport.exe.config
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\bin\Debug\StudentDailyReport.exe
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\bin\Debug\StudentDailyReport.pdb
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.csprojAssemblyReference.cache
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.csproj.CoreCompileInputs.cache
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.exe
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.pdb
