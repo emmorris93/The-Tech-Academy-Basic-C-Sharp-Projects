@@ -1,0 +1,7 @@
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApplicationAssignmentStep158\ConsoleApplicationAssignmentStep158\bin\Debug\ConsoleApplicationAssignmentStep158.exe.config
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApplicationAssignmentStep158\ConsoleApplicationAssignmentStep158\bin\Debug\ConsoleApplicationAssignmentStep158.exe
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApplicationAssignmentStep158\ConsoleApplicationAssignmentStep158\bin\Debug\ConsoleApplicationAssignmentStep158.pdb
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApplicationAssignmentStep158\ConsoleApplicationAssignmentStep158\obj\Debug\ConsoleApplicationAssignmentStep158.csprojAssemblyReference.cache
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApplicationAssignmentStep158\ConsoleApplicationAssignmentStep158\obj\Debug\ConsoleApplicationAssignmentStep158.csproj.CoreCompileInputs.cache
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApplicationAssignmentStep158\ConsoleApplicationAssignmentStep158\obj\Debug\ConsoleApplicationAssignmentStep158.exe
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleApplicationAssignmentStep158\ConsoleApplicationAssignmentStep158\obj\Debug\ConsoleApplicationAssignmentStep158.pdb

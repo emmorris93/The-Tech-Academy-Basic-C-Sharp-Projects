@@ -1,0 +1,6 @@
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ChallengeStep153\ChallengeStep153\bin\Debug\ChallengeStep153.exe.config
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ChallengeStep153\ChallengeStep153\bin\Debug\ChallengeStep153.exe
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ChallengeStep153\ChallengeStep153\bin\Debug\ChallengeStep153.pdb
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ChallengeStep153\ChallengeStep153\obj\Debug\ChallengeStep153.csproj.CoreCompileInputs.cache
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ChallengeStep153\ChallengeStep153\obj\Debug\ChallengeStep153.exe
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ChallengeStep153\ChallengeStep153\obj\Debug\ChallengeStep153.pdb

@@ -1,0 +1,7 @@
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ChallengeStep147\ChallengeStep147\bin\Debug\ChallengeStep147.exe.config
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ChallengeStep147\ChallengeStep147\bin\Debug\ChallengeStep147.exe
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ChallengeStep147\ChallengeStep147\bin\Debug\ChallengeStep147.pdb
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ChallengeStep147\ChallengeStep147\obj\Debug\ChallengeStep147.csprojAssemblyReference.cache
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ChallengeStep147\ChallengeStep147\obj\Debug\ChallengeStep147.csproj.CoreCompileInputs.cache
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ChallengeStep147\ChallengeStep147\obj\Debug\ChallengeStep147.exe
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ChallengeStep147\ChallengeStep147\obj\Debug\ChallengeStep147.pdb
