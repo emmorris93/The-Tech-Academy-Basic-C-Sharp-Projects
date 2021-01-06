@@ -1,0 +1,7 @@
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Assignment159\Assignment159\bin\Debug\Assignment159.exe.config
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Assignment159\Assignment159\bin\Debug\Assignment159.exe
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Assignment159\Assignment159\bin\Debug\Assignment159.pdb
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Assignment159\Assignment159\obj\Debug\Assignment159.csprojAssemblyReference.cache
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Assignment159\Assignment159\obj\Debug\Assignment159.csproj.CoreCompileInputs.cache
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Assignment159\Assignment159\obj\Debug\Assignment159.exe
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Assignment159\Assignment159\obj\Debug\Assignment159.pdb
