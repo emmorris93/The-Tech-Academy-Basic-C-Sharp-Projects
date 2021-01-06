@@ -1,0 +1,7 @@
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogicAssignmentStep168\BooleanLogicAssignmentStep168\bin\Debug\BooleanLogicAssignmentStep168.exe.config
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogicAssignmentStep168\BooleanLogicAssignmentStep168\bin\Debug\BooleanLogicAssignmentStep168.exe
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogicAssignmentStep168\BooleanLogicAssignmentStep168\bin\Debug\BooleanLogicAssignmentStep168.pdb
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogicAssignmentStep168\BooleanLogicAssignmentStep168\obj\Debug\BooleanLogicAssignmentStep168.csprojAssemblyReference.cache
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogicAssignmentStep168\BooleanLogicAssignmentStep168\obj\Debug\BooleanLogicAssignmentStep168.csproj.CoreCompileInputs.cache
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogicAssignmentStep168\BooleanLogicAssignmentStep168\obj\Debug\BooleanLogicAssignmentStep168.exe
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogicAssignmentStep168\BooleanLogicAssignmentStep168\obj\Debug\BooleanLogicAssignmentStep168.pdb
