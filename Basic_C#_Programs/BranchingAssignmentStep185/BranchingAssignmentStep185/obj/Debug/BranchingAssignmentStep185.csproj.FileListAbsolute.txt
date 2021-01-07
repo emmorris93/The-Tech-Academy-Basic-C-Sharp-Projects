@@ -1,0 +1,7 @@
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BranchingAssignmentStep185\BranchingAssignmentStep185\bin\Debug\BranchingAssignmentStep185.exe.config
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BranchingAssignmentStep185\BranchingAssignmentStep185\bin\Debug\BranchingAssignmentStep185.exe
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BranchingAssignmentStep185\BranchingAssignmentStep185\bin\Debug\BranchingAssignmentStep185.pdb
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BranchingAssignmentStep185\BranchingAssignmentStep185\obj\Debug\BranchingAssignmentStep185.csprojAssemblyReference.cache
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BranchingAssignmentStep185\BranchingAssignmentStep185\obj\Debug\BranchingAssignmentStep185.csproj.CoreCompileInputs.cache
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BranchingAssignmentStep185\BranchingAssignmentStep185\obj\Debug\BranchingAssignmentStep185.exe
+C:\Users\emilymam\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BranchingAssignmentStep185\BranchingAssignmentStep185\obj\Debug\BranchingAssignmentStep185.pdb
