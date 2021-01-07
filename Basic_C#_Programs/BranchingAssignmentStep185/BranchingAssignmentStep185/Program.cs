@@ -33,34 +33,37 @@ namespace BranchingAssignmentStep185
             {
                 Console.WriteLine("Package too heavy to be shipped via Package Express.  Have a good day.");
             }
-
-            Console.WriteLine("Please enter the package width:");
-            string pkgWidthInput = Console.ReadLine();
-            float pkgWidth = float.Parse(pkgWidthInput);
-
-            Console.WriteLine("Please enter the package height:");
-            string pkgHeightInput = Console.ReadLine();
-            float pkgHeight = float.Parse(pkgHeightInput);
-
-            Console.WriteLine("Please enter the package length:");
-            string pkgLengthInput = Console.ReadLine();
-            float pkgLength = float.Parse(pkgLengthInput);
-
-            float pkgTotalDimensions = pkgWidth + pkgHeight + pkgLength;
-
-            if (pkgTotalDimensions >= 50)
-            {
-                Console.WriteLine("Package too big to be shipped via Package Express.");
-            }
             else
             {
-                float pkgDimensionsProduct = pkgWidth * pkgHeight * pkgLength;
-                float pkgAmount = pkgDimensionsProduct * pkgWeight;
-                float pkgTotal = pkgAmount / 100;
-                float pkgTotalDollar = pkgTotal;
-                Console.WriteLine("Your estimated total for shipping is: " + pkgTotalDollar.ToString("C2") + "\n" + "Thank you!");
-                
+                Console.WriteLine("Please enter the package width:");
+                string pkgWidthInput = Console.ReadLine();
+                float pkgWidth = float.Parse(pkgWidthInput);
+
+                Console.WriteLine("Please enter the package height:");
+                string pkgHeightInput = Console.ReadLine();
+                float pkgHeight = float.Parse(pkgHeightInput);
+
+                Console.WriteLine("Please enter the package length:");
+                string pkgLengthInput = Console.ReadLine();
+                float pkgLength = float.Parse(pkgLengthInput);
+
+                float pkgTotalDimensions = pkgWidth + pkgHeight + pkgLength;
+
+                if (pkgTotalDimensions >= 50)
+                {
+                    Console.WriteLine("Package too big to be shipped via Package Express.");
+                }
+                else
+                {
+                    float pkgDimensionsProduct = pkgWidth * pkgHeight * pkgLength;
+                    float pkgAmount = pkgDimensionsProduct * pkgWeight;
+                    float pkgTotal = pkgAmount / 100;
+                    float pkgTotalDollar = pkgTotal;
+                    Console.WriteLine("Your estimated total for shipping is: " + pkgTotalDollar.ToString("C2") + "\n" + "Thank you!");
+
+                }
             }
+            
             Console.ReadLine();
         }
     }
