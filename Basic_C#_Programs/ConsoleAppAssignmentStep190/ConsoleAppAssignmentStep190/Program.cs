@@ -16,7 +16,8 @@ namespace ConsoleAppAssignmentStep190
         static void Main(string[] args)
         {
 
-            bool guessAgain;
+            bool guessAgain = false;
+
             do
             {
                 Console.WriteLine("Guess my favorite color: red, green, purple, yellow, gray, blue, or orange");
@@ -39,6 +40,14 @@ namespace ConsoleAppAssignmentStep190
 
             } while (guessAgain);
             Console.WriteLine("Good-bye!");
+
+            int whileTrigger = 0;
+            while (whileTrigger < 10)
+            {
+                Console.WriteLine(whileTrigger.ToString());
+                whileTrigger++;
+            }
+
             Console.Read();
 
         }
