@@ -1,0 +1,7 @@
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppAssignmentStep204\ConsoleAppAssignmentStep204\bin\Debug\ConsoleAppAssignmentStep204.exe.config
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppAssignmentStep204\ConsoleAppAssignmentStep204\bin\Debug\ConsoleAppAssignmentStep204.exe
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppAssignmentStep204\ConsoleAppAssignmentStep204\bin\Debug\ConsoleAppAssignmentStep204.pdb
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppAssignmentStep204\ConsoleAppAssignmentStep204\obj\Debug\ConsoleAppAssignmentStep204.csprojAssemblyReference.cache
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppAssignmentStep204\ConsoleAppAssignmentStep204\obj\Debug\ConsoleAppAssignmentStep204.csproj.CoreCompileInputs.cache
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppAssignmentStep204\ConsoleAppAssignmentStep204\obj\Debug\ConsoleAppAssignmentStep204.exe
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppAssignmentStep204\ConsoleAppAssignmentStep204\obj\Debug\ConsoleAppAssignmentStep204.pdb
