@@ -6,14 +6,32 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class Card
     {
-        public Card() // Constructor
+        public string Suit { get; set; }
+        public string Face { get; set; }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        public Card() 
         {
             Suit = "Spades";
             Face = "Two";
         }
-        public string Suit { get; set; }
-        public string Face { get; set; }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="Suit"></param>
+        /// <param name="Face"></param>
+        public Card(string Suit, string Face)
+        {
+            this.Suit = Suit;
+            this.Face = Face;
+        }
     }
 }

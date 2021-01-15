@@ -6,10 +6,19 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class Deck
     {
+        // properties, members
+        public List<Card> Cards { get; set; }
+
+        /// <summary>
+        /// 
+        /// </summary>
         public Deck()
-        { // Constructor
+        { 
             Cards = new List<Card>();
             List<string> Suits = new List<string>() { "Clubs", "Hearts", "Diamonds", "Spades" };
             List<string> Faces = new List<string>()
@@ -28,6 +37,7 @@ namespace TwentyOne
                 }
             }
         }
-        public List<Card> Cards { get; set; }
+        
+        //methods
     }
 }
