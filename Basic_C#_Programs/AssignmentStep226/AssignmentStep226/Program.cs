@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//ASSIGNMENT (Step 226)
-//Perform these actions and create a console app that includes the following:
-//1.Create a class. In that class, create a method that will take in an integer, create a math operation for this integer (addition, subtraction, etc.), then return the answer as an integer.
-//2.In the Main() method of the console app, instantiate the class and call the one method, passing in an integer. Display the result to the screen.
+// ASSIGNMENT (Step 226)
+// Perform these actions and create a console app that includes the following:
+//1. Create a class. In that class, create a method that will take in an integer, create a math operation for this integer (addition, subtraction, etc.), then return the answer as an integer.
+//2. In the Main() method of the console app, instantiate the class and call the one method, passing in an integer. Display the result to the screen.
 //3. Add a second method to the class with the same name that will take in a decimal, create a different math operation for it, then return the answer as an integer.
 //4. In the Main() method of the console app, instantiate the class and call the second method, passing in a decimal. Display the result to the screen.
 //5. Add a third method to the class, with the same name, that will take in a string, convert it to an integer if possible, do a different math operation to it, then return the answer as an integer.
@@ -19,7 +19,22 @@ namespace AssignmentStep226
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Input integer:");
+            int intInput = Convert.ToInt32(Console.ReadLine());
 
+            MyMathClass myClass = new MyMathClass();
+            Console.WriteLine(myClass.AdditionMethod(intInput));
+
+            decimal myDecimal = 15.7m;
+            MyMathClass myClass2 = new MyMathClass();
+            Console.WriteLine(myClass2.AdditionMethod(myDecimal));
+
+            string strNum = "42";
+            MyMathClass myClass3 = new MyMathClass();
+            Console.WriteLine(myClass3.AdditionMethod(strNum));
+
+
+            Console.ReadLine();
         }
     }
 }
