@@ -1,0 +1,7 @@
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\RepeatAssignmentStep140\RepeatAssignmentStep140\bin\Debug\RepeatAssignmentStep140.exe.config
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\RepeatAssignmentStep140\RepeatAssignmentStep140\bin\Debug\RepeatAssignmentStep140.exe
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\RepeatAssignmentStep140\RepeatAssignmentStep140\bin\Debug\RepeatAssignmentStep140.pdb
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\RepeatAssignmentStep140\RepeatAssignmentStep140\obj\Debug\RepeatAssignmentStep140.csprojAssemblyReference.cache
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\RepeatAssignmentStep140\RepeatAssignmentStep140\obj\Debug\RepeatAssignmentStep140.csproj.CoreCompileInputs.cache
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\RepeatAssignmentStep140\RepeatAssignmentStep140\obj\Debug\RepeatAssignmentStep140.exe
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\RepeatAssignmentStep140\RepeatAssignmentStep140\obj\Debug\RepeatAssignmentStep140.pdb

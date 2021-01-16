@@ -1,0 +1,7 @@
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\RepeatMathAndComparisonOperators\RepeatMathAndComparisonOperators\bin\Debug\RepeatMathAndComparisonOperators.exe.config
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\RepeatMathAndComparisonOperators\RepeatMathAndComparisonOperators\bin\Debug\RepeatMathAndComparisonOperators.exe
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\RepeatMathAndComparisonOperators\RepeatMathAndComparisonOperators\bin\Debug\RepeatMathAndComparisonOperators.pdb
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\RepeatMathAndComparisonOperators\RepeatMathAndComparisonOperators\obj\Debug\RepeatMathAndComparisonOperators.csprojAssemblyReference.cache
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\RepeatMathAndComparisonOperators\RepeatMathAndComparisonOperators\obj\Debug\RepeatMathAndComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\RepeatMathAndComparisonOperators\RepeatMathAndComparisonOperators\obj\Debug\RepeatMathAndComparisonOperators.exe
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\RepeatMathAndComparisonOperators\RepeatMathAndComparisonOperators\obj\Debug\RepeatMathAndComparisonOperators.pdb
