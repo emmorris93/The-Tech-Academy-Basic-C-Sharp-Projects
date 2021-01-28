@@ -41,7 +41,7 @@ namespace AssignmentStep223
                     switch (CurrentRoom.Op)
                     {
                         case "multiplication":
-                            result = myNumber * number;
+                            result = MyMathClass.Multiply(number);
                             break;
                         case "addition":
                             result = myNumber + number;
