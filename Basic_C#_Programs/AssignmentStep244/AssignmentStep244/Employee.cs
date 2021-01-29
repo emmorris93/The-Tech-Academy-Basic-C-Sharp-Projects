@@ -6,11 +6,21 @@ using System.Threading.Tasks;
 
 namespace AssignmentStep244
 {
-    public class Employee : Person
+    public class Employee : Person, IQuittable
     {
         public override void SayName()
         {
             Console.WriteLine(firstName + lastName);
+        }
+
+        public void Quittable(Employee employee)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Quit()
+        {
+            Console.WriteLine("Employee Quit");
         }
     }
 }

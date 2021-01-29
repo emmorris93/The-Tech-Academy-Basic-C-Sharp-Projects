@@ -5,3 +5,10 @@ C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects
 C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AssignmentStep244\AssignmentStep244\obj\Debug\AssignmentStep244.csproj.CoreCompileInputs.cache
 C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AssignmentStep244\AssignmentStep244\obj\Debug\AssignmentStep244.exe
 C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AssignmentStep244\AssignmentStep244\obj\Debug\AssignmentStep244.pdb
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AssignmentStep244\AssignmentStep244\bin\Debug\AssignmentStep244.exe.config
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AssignmentStep244\AssignmentStep244\bin\Debug\AssignmentStep244.exe
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AssignmentStep244\AssignmentStep244\bin\Debug\AssignmentStep244.pdb
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AssignmentStep244\AssignmentStep244\obj\Debug\AssignmentStep244.csprojAssemblyReference.cache
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AssignmentStep244\AssignmentStep244\obj\Debug\AssignmentStep244.csproj.CoreCompileInputs.cache
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AssignmentStep244\AssignmentStep244\obj\Debug\AssignmentStep244.exe
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AssignmentStep244\AssignmentStep244\obj\Debug\AssignmentStep244.pdb
