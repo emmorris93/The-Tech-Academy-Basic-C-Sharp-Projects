@@ -1,0 +1,9 @@
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MaudisExtensions\MaudisExtensions\bin\Debug\netstandard2.0\MaudisExtensions.deps.json
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MaudisExtensions\MaudisExtensions\bin\Debug\netstandard2.0\MaudisExtensions.dll
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MaudisExtensions\MaudisExtensions\bin\Debug\netstandard2.0\MaudisExtensions.pdb
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MaudisExtensions\MaudisExtensions\obj\Debug\netstandard2.0\MaudisExtensions.csprojAssemblyReference.cache
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MaudisExtensions\MaudisExtensions\obj\Debug\netstandard2.0\MaudisExtensions.AssemblyInfoInputs.cache
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MaudisExtensions\MaudisExtensions\obj\Debug\netstandard2.0\MaudisExtensions.AssemblyInfo.cs
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MaudisExtensions\MaudisExtensions\obj\Debug\netstandard2.0\MaudisExtensions.csproj.CoreCompileInputs.cache
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MaudisExtensions\MaudisExtensions\obj\Debug\netstandard2.0\MaudisExtensions.dll
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MaudisExtensions\MaudisExtensions\obj\Debug\netstandard2.0\MaudisExtensions.pdb

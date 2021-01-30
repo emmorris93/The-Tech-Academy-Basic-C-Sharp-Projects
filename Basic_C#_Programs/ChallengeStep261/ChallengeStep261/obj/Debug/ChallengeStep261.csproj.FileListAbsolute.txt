@@ -1,0 +1,7 @@
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ChallengeStep261\ChallengeStep261\bin\Debug\ChallengeStep261.exe.config
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ChallengeStep261\ChallengeStep261\bin\Debug\ChallengeStep261.exe
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ChallengeStep261\ChallengeStep261\bin\Debug\ChallengeStep261.pdb
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ChallengeStep261\ChallengeStep261\obj\Debug\ChallengeStep261.csprojAssemblyReference.cache
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ChallengeStep261\ChallengeStep261\obj\Debug\ChallengeStep261.csproj.CoreCompileInputs.cache
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ChallengeStep261\ChallengeStep261\obj\Debug\ChallengeStep261.exe
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ChallengeStep261\ChallengeStep261\obj\Debug\ChallengeStep261.pdb
