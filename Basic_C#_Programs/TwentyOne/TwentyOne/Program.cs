@@ -12,6 +12,10 @@ namespace TwentyOne
         {
             
             Deck deck = new Deck();
+
+
+
+
             deck.Shuffle(3);
 
             foreach (Card card in deck.Cards)
@@ -24,3 +28,11 @@ namespace TwentyOne
         }       
     }
 }
+
+//int count = deck.Cards.Count(x => x.Face == Face.Ace);
+
+//List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList();
+
+//List<int> numberList = new List<int> { 1, 2, 3, 5, 7, 18, 29 };
+//int sum = numberList.Sum();
+//Console.WriteLine(sum);
