@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Casino.Interfaces;
 
-namespace TwentyOne
+namespace Casino.TwentyOne
 {
     public class TwentyOneGame : Game, IWalkAway
     {
@@ -41,7 +42,7 @@ namespace TwentyOne
                 Console.WriteLine("Dealing ... ");
                 foreach(Player player in Players)
                 {
-                    Console.Write("{0}:", player.Name);
+                    Console.Write("{0}: ", player.Name);
                     Dealer.Deal(player.Hand);
                     if(i == 1)
                     {
