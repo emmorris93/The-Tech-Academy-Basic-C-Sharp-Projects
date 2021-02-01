@@ -1,0 +1,7 @@
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AssignmentStep300\AssignmentStep300\bin\Debug\AssignmentStep300.exe.config
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AssignmentStep300\AssignmentStep300\bin\Debug\AssignmentStep300.exe
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AssignmentStep300\AssignmentStep300\bin\Debug\AssignmentStep300.pdb
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AssignmentStep300\AssignmentStep300\obj\Debug\AssignmentStep300.csprojAssemblyReference.cache
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AssignmentStep300\AssignmentStep300\obj\Debug\AssignmentStep300.csproj.CoreCompileInputs.cache
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AssignmentStep300\AssignmentStep300\obj\Debug\AssignmentStep300.exe
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AssignmentStep300\AssignmentStep300\obj\Debug\AssignmentStep300.pdb
