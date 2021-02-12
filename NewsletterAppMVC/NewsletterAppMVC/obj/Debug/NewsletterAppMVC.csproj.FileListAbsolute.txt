@@ -58,3 +58,7 @@ C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects
 C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\roslyn\System.Memory.dll
 C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\roslyn\System.Numerics.Vectors.dll
 C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.dll
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.xml
+C:\Users\maudi\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.SqlServer.xml
