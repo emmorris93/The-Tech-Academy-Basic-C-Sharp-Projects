@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3ahicnxsipEiHI7XeXW8fHJoQHvW+zR5w9jbfnIVxYWiLT5FCOlQMhVrU/vhR0/eXOav2Xs3E1NYirrTlvsY0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maudi\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Basic_C#_Programs\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maudi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

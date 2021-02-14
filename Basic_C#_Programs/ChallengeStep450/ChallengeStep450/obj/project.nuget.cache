@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m+TMZW1rPKMUo5I9IHphks4BD1+sDSEActyEKH4cvm3B+3j5JNmqa6331j/r4bxk9YCSi9AoGxtNsBLPoEKs8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maudi\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Basic_C#_Programs\\ChallengeStep450\\ChallengeStep450\\ChallengeStep450.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maudi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

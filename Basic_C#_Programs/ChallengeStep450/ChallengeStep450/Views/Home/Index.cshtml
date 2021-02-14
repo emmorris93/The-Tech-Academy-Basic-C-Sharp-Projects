@@ -1,0 +1,8 @@
+﻿@model System.DateTime
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h2 class="display-4">Welcome, current server time is: @Model.ToLongTimeString()</h2>
+</div>
