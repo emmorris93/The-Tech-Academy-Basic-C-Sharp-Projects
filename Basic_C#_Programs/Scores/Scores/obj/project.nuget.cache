@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jLvYyLicb+oPBLoihK9Uet8nypQ3YqtZmSlVmOzNU91ynOS9fG3RGmpi9cgM3pYYlL/GXLXui4aFIR9PuQRMlA==",
+  "dgSpecHash": "JwD/f6CXIkBmA1f2qYJyxBLIP6DW5Z/ugfhKE+GLgTZC81DGzvuwYW30LYyiNLwP3tcT7t89lj4Yb4n5bWoeJA==",
   "success": true,
   "projectFilePath": "C:\\Users\\maudi\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Basic_C#_Programs\\Scores\\Scores\\Scores.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\maudi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
   "logs": []
 }
