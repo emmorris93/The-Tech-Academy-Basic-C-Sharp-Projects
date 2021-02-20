@@ -27,8 +27,8 @@ namespace FinalChallengeStep451
         {
             services.AddControllersWithViews();
 
-            services.AddDbContext<StudentDbContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("StudentDbContext")));
+            services.AddDbContext<StudentDbContext>() ;
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
